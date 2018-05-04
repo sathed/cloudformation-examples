@@ -29,7 +29,7 @@
    },
 
    "ImageId" : {
-      "Description" : "The IP address range that can be used to SSH to the EC2 instances",
+      "Description" : "The image ID to be used.",
       "Type": "String",
       "ConstraintDescription": "You must include an image ID."
    }
